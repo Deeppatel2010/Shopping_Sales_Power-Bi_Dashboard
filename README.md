@@ -1,4 +1,4 @@
-📊 Amazon Sales Analysis – Power BI Dashboard
+📊 Shopping_Sales_Analysis – Power BI Dashboard
 📌 Project Overview
 
 This project showcases an interactive Power BI dashboard built to analyze Amazon sales data and uncover actionable business insights. The dashboard enables stakeholders to monitor sales performance, product trends, revenue contribution, and customer purchasing behavior through dynamic visualizations.
